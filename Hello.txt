@@ -3,3 +3,5 @@ New Feature ! I'm getting good at it!
 Line DELETED !
 I do not speak German !
 This is great !
+
+Another line !
